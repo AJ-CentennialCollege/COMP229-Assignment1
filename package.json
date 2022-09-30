@@ -1,0 +1,15 @@
+{
+  "name": "comp229-assignment1-ajbalbacal",
+  "version": "0.0.1",
+  "description": "assignment1 for comp229",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "AJ Balbacal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
