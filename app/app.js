@@ -1,5 +1,5 @@
 //Third party modules
-import { express } from "express";
+import express from "express";
 import cookieParser from 'cookie-parser';
 import logger from 'morgan';
 import session from 'express-session';
