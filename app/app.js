@@ -9,6 +9,9 @@ import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+// Configuration Module
+import { Secret } from '../config/config.js';
+
 // Import Routes
 import indexRouter from './routes/index.route.server.js'
 
